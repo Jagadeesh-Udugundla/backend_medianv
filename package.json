@@ -1,0 +1,18 @@
+{
+  "name": "medianv",
+  "version": "1.0.0",
+  "description": "jagadeesh medai nv backend creation",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Jagadeesh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0",
+    "nodemon": "^3.1.0"
+  }
+}
